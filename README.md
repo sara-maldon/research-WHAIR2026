@@ -82,5 +82,5 @@ This dataset and analysis are shared for academic and research purposes. Please 
  
 ---
  
-*Questions or collaboration inquiries → reach out via [LinkedIn](https://linkedin.com/in/saramaldon) or open an issue.*
+*Questions or collaboration inquiries → reach out via [LinkedIn]([https://linkedin.com/in/saramaldon]) or open an issue.*
  
